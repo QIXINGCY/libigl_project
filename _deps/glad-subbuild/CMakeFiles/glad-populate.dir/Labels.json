@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/glad-populate"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/6fb649a0fd0f06c4a4543be7843dcc1e/glad-populate.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/4720053c2f65232e97bfc210186ff975/glad-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-build.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-download.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-install.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-test.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/glad-subbuild/CMakeFiles/62f53b250fb8cf5fe7e150213bf8d94b/glad-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glad-populate"
+		],
+		"name" : "glad-populate"
+	}
+}

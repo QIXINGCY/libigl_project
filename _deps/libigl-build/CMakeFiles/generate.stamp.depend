@@ -1,0 +1,24 @@
+# CMake generation dependency list for this directory.
+E:/Code/libigl_project/_deps/libigl-src/CMakeLists.txt
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_add_library.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_add_test.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_add_tutorial.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_copy_dll.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_include.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_install.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_target_sources.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/igl_windows.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/igl/modules/core.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/libigl.cmake
+E:/Code/libigl_project/_deps/libigl-src/cmake/recipes/external/eigen.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FetchContent.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FetchContent/CMakeLists.cmake.in
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindGit.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindThreads.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake

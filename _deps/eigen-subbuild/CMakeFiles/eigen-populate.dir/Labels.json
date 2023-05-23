@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/eigen-populate"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/1f16f5cbf1dc81ec727a8f7ff737b776/eigen-populate.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/cb27b078646a1da84ba756bbf2a8bd40/eigen-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-build.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-download.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-install.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-test.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/eigen-subbuild/CMakeFiles/3b174a9aa84943e621c13a8eed50e8db/eigen-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"eigen-populate"
+		],
+		"name" : "eigen-populate"
+	}
+}

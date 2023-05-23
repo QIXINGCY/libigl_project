@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/libigl-populate"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/bd87ddb611ab0df42805ca08666eeff6/libigl-populate.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/f0c3a8e6d35caa818283187419b37817/libigl-populate-complete.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-build.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-configure.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-download.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-install.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-patch.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-test.rule"
+		},
+		{
+			"file" : "E:/Code/libigl_project/_deps/libigl-subbuild/CMakeFiles/416fe25900379da5fe29a138c4819707/libigl-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libigl-populate"
+		],
+		"name" : "libigl-populate"
+	}
+}

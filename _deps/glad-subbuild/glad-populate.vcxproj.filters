@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\62f53b250fb8cf5fe7e150213bf8d94b\glad-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\4720053c2f65232e97bfc210186ff975\glad-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\6fb649a0fd0f06c4a4543be7843dcc1e\glad-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Code\libigl_project\_deps\glad-subbuild\CMakeFiles\glad-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{60B4CE57-8EBD-3086-AFCA-073C1A2A8371}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+# CMake generation dependency list for this directory.
+E:/Code/libigl_project/_deps/glfw-src/CMake/glfw3.pc.in
+E:/Code/libigl_project/_deps/glfw-src/CMake/glfw3Config.cmake.in
+E:/Code/libigl_project/_deps/glfw-src/CMakeLists.txt
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CMakeDependentOption.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/FindThreads.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+E:/cmake-3.26.0-windows-x86_64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake

@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/44e5c7106cbe681371dabda5f84cb42b/glfw-populate.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/5f068c07d85653b82a480e3a00bc4113/glfw-populate-complete.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-build.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-configure.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-download.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-install.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-mkdir.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-patch.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-test.rule
+E:/Code/libigl_project/_deps/glfw-subbuild/CMakeFiles/b4f98dba48edd05f3240edb4c00570bf/glfw-populate-update.rule
